@@ -1,0 +1,6 @@
+[submodule "learning_room_backend"]
+	path = learning_room_backend
+	url = https://github.com/Diliradon/learning_room_backend.git
+[submodule "learning_room_frontend"]
+	path = learning_room_frontend
+	url = https://github.com/Diliradon/learning_room_frontend.git
